@@ -37,8 +37,8 @@ WEBHOOK_URL='ваш домен'
 
 # для работы с гугл таблицами
 SPREADSHEET_ID='ваш id таблицы'
-CREDENTIALS_FILE='вашу путь к файлу credentials.json(файл с настройками доступа к Google API
-Если он в корне проекта, то просто 'credentials.json'')
+CREDENTIALS_FILE='вашу путь к файлу credentials.json(файл с настройками доступа к Google API,
+если он в корне проекта, то просто 'credentials.json'')
 
 # для работы с базой данных
 DATABASE_USER='ваше имя пользователя'
